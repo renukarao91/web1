@@ -74,7 +74,7 @@
 </nav>
 
 <section id="ec2" class="active">
-    <h2>EC2 (Elastic Compute Cloud) renuzon tek</h2>
+    <h2>EC2 (Elastic Compute Cloud)</h2>
     <p>Amazon EC2 provides scalable compute capacity in the cloud. It allows you to launch virtual servers, known as instances, to run applications and services. EC2 is highly customizable, offering a range of instance types, operating systems, and configurations to suit different workloads.</p>
 </section>
 
